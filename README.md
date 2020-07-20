@@ -1,4 +1,4 @@
-### Yo! I'm Luiz Carlos 👋
+### Yo! I'm Luiz Carlos, just another person hunting new bugs... 👋
 
 - 💬 Ask me about: Technology, travels
 - 📣 We can talk in: English or Portuguese
