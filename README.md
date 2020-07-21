@@ -1,6 +1,6 @@
 <h2> Yo! I'm Luiz Carlos 👋.</h2>
 
-Just another person hunting new bugs.
+Just another person hunting new bugs and really fascinated about the tech world.
 
 - 💬 Ask me about: Technology, travels
 - 📣 We can talk in: English or Portuguese
