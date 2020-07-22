@@ -1,4 +1,4 @@
-<h2> Yo, I'm Luiz Carlos! <img src="https://i.imgur.com/joUcyXn.gif" width="30px"> </h2>
+<h2> Yo, I'm Luiz Carlos! <img src="https://i.imgur.com/Qlw8HPJ.gif" width="30px"> </h2>
 
 Just another person hunting new bugs and really fascinated about the tech world.
 
