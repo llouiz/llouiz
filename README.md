@@ -10,5 +10,5 @@ Just another person hunting new bugs and really fascinated about the tech world.
 [![Gmail Badge](https://img.shields.io/badge/-luizcarlos----1%40hotmail.com-%23008080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luizcarlos--1@hotmail.com)](mailto:luizcarlos--1@hotmail.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luikz&show_icons=true&count_private=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=luikz&show_icons=true" /> 
 </p>
