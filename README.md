@@ -7,7 +7,7 @@ Just another person hunting new bugs and really fascinated about the tech world.
 - 📫 How to reach me: <br/><br/>
 [![Blog Badge](https://img.shields.io/badge/Blog-luikz.github.io%2Fme-black)](https://luikz.github.io/me/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos5/)](https://www.linkedin.com/in/luiz-carlos5/)
-[![Gmail Badge](https://img.shields.io/badge/-luizcarlos----1%40hotmail.com-%23008080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.carlos.techie@gmail.com)](mailto:luizcarlos--1@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-luizcarlos----1%40hotmail.com-%23008080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.carlos.techie@gmail.com)](mailto:luiz.carlos.techie@gmail.com)
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcairesdev&layout=compact" /> 
