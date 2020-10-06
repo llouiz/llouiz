@@ -3,7 +3,7 @@
 Just another dev hunting new bugs and really fascinated about the tech world.
 
 - 💬 Ask me about: Technology, travels
-- 📣 We can talk in: English or Portuguese
+- 📣 We can talk in: Portuguese or English
 - 📫 How to reach me: <br/><br/>
 [![Blog Badge](https://img.shields.io/badge/Blog-llouize.github.io%2Fme-black)](https://llouize.github.io/me/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos5/)](https://www.linkedin.com/in/luiz-carlos5/)
