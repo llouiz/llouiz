@@ -1,4 +1,4 @@
-<h2> Yo, I'm Luiz! <img src="https://i.imgur.com/JoF35Do.gif" width="220"></h2>
+<h2> Howdy, I'm Luiz! <img src="https://i.imgur.com/JoF35Do.gif" width="220"></h2>
 
 Just another dev hunting new bugs and really fascinated about the tech world.
 
