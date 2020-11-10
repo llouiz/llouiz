@@ -2,7 +2,7 @@
 
 Just another dev hunting new bugs and really fascinated about the tech world.
 
-- 💬 Ask me about: Technology, travels
+- 💬 Ask me about: Technology, Music, travels
 - 📣 We can talk in: Portuguese or English
 - 📫 How to reach me: <br/><br/>
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-llouiz.github.io%2Fme-black)](https://llouiz.github.io/me/)
