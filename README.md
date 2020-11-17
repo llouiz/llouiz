@@ -9,6 +9,8 @@ Just another dev hunting new bugs and really fascinated about the tech world.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos5/)](https://www.linkedin.com/in/luiz-carlos5/)
 [![Gmail Badge](https://img.shields.io/badge/-luiz.carlos.techie%40gmail.com-008080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.carlos.techie@gmail.com)](mailto:luiz.carlos.techie@gmail.com)
 
+<td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=llouiz&theme=buefy"/></td>
+
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gcairesdev&layout=compact" /> 
 </p>
