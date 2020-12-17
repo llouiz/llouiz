@@ -1,7 +1,7 @@
 <h2> Howdy, I'm Luiz!</h2>
 
 Just another dev hunting new bugs and really fascinated about the tech world.
-
+[![GitHub followers](https://img.shields.io/github/followers/mrs4w?label=Followers&style=social)](https://github.com/Naereen?tab=followers)  [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)   
 - 💬 Ask me about: Technology, Music, travels
 - 📣 We can talk in: Portuguese or English
 - 📫 How to reach me: <br/><br/>
