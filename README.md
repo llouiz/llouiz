@@ -15,11 +15,11 @@
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=llouiz&layout=compact&theme=tokyonight"
     />
-  <img   
+ <!-- <img   
       align="center"
       height="165" 
        src="https://github-readme-stats.vercel.app/api?username=llouiz&show_icons=true&theme=tokyonight"
-    />
+    /> -->
 </p>
 
 <!--
