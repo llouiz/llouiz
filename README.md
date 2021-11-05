@@ -10,18 +10,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos5/)](https://www.linkedin.com/in/luiz-carlos5/)
 [![Gmail Badge](https://img.shields.io/badge/-luiz.carlos.techie%40gmail.com-008080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.carlos.techie@gmail.com)](mailto:luiz.carlos.techie@gmail.com)
 
-<p>
-   <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=llouiz&layout=compact&theme=tokyonight"
-    />
- <!-- <img   
-      align="center"
-      height="165" 
-       src="https://github-readme-stats.vercel.app/api?username=llouiz&show_icons=true&theme=tokyonight"
-    /> -->
-</p>
-
 <!--
 **LLOUIZ/LLOUIZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
