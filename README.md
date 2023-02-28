@@ -1,6 +1,6 @@
-### Howdy, I'm Luiz!
+### Hey there, I'm Luiz!
 
-##### Just another dev hunting new bugs and really fascinated about the tech world.
+##### A dev hunting new bugs and really fascinated about the tech world.
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub followers](https://img.shields.io/github/followers/llouiz?label=Followers&style=social)](https://github.com/Naereen?tab=followers)
 
