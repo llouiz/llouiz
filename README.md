@@ -9,9 +9,6 @@
 - 📫 How to reach me: <br/><br/>
 [![Portfolio Badge](https://img.shields.io/badge/Portfolio-llouiz.github.io%2Fme-black)](https://llouiz.github.io/me)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luiz-carlos5/)](https://www.linkedin.com/in/luiz-carlos5/)
-<a href="https://www.instagram.com/mrs4ww" target="_blank" alt="Instagram">
-<img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=a"/></a>
-
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mrs4ww)](https://www.instagram.com/mrs4ww)
 [![Gmail Badge](https://img.shields.io/badge/-luiz.carlos.techie%40gmail.com-008080?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luiz.carlos.techie@gmail.com)](mailto:luiz.carlos.techie@gmail.com)
 
