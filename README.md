@@ -1,6 +1,6 @@
 ### Hey there, I'm Luiz! 👋
 
-##### I'm a Web Developer from Brazil 🇧🇷 working remotely for JMV Technology.
+##### I'm a Web Developer from Brazil 🇧🇷 working remotely for [JMV Technology](https://jmvtechnology.com).
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![GitHub followers](https://img.shields.io/github/followers/llouiz?label=Followers&style=social)](https://github.com/Naereen?tab=followers)
 
